@@ -44,9 +44,15 @@ namespace lab1
         }
 
 
-        public int CompareTo(object obj)
+        public int CompareTo(Ułamek obj)
         {
-            throw new NotImplementedException();
+            if (obj == null) return 1;
+
+            Ułamek other = obj as Ułamek;
+            if (other != null)
+                return this.licznik.CompareTo(other.licznik);
+            else
+                throw new ArgumentException("Obiekt nie jest ułamkiem");
         }
 
         public bool Equals(Ułamek other)
