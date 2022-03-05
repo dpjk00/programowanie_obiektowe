@@ -6,7 +6,9 @@ namespace lab1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Ułamek u = new Ułamek(1, 2);
+            Console.WriteLine(u);
+            Console.WriteLine(u.ToString());
         }
     }
 }
