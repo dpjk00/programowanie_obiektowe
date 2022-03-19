@@ -1,0 +1,16 @@
+D:\Users\damian.pajak\source\repos\programowanie_obiektowe\lab1\la2\la2\obj\Debug\net5.0\la2.csproj.AssemblyReference.cache
+D:\Users\damian.pajak\source\repos\programowanie_obiektowe\lab1\la2\la2\obj\Debug\net5.0\la2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\damian.pajak\source\repos\programowanie_obiektowe\lab1\la2\la2\obj\Debug\net5.0\la2.AssemblyInfoInputs.cache
+D:\Users\damian.pajak\source\repos\programowanie_obiektowe\lab1\la2\la2\obj\Debug\net5.0\la2.AssemblyInfo.cs
+D:\Users\damian.pajak\source\repos\programowanie_obiektowe\lab1\la2\la2\obj\Debug\net5.0\la2.csproj.CoreCompileInputs.cache
+D:\Users\damian.pajak\source\repos\programowanie_obiektowe\lab1\la2\la2\bin\Debug\net5.0\la2.exe
+D:\Users\damian.pajak\source\repos\programowanie_obiektowe\lab1\la2\la2\bin\Debug\net5.0\la2.deps.json
+D:\Users\damian.pajak\source\repos\programowanie_obiektowe\lab1\la2\la2\bin\Debug\net5.0\la2.runtimeconfig.json
+D:\Users\damian.pajak\source\repos\programowanie_obiektowe\lab1\la2\la2\bin\Debug\net5.0\la2.runtimeconfig.dev.json
+D:\Users\damian.pajak\source\repos\programowanie_obiektowe\lab1\la2\la2\bin\Debug\net5.0\la2.dll
+D:\Users\damian.pajak\source\repos\programowanie_obiektowe\lab1\la2\la2\bin\Debug\net5.0\ref\la2.dll
+D:\Users\damian.pajak\source\repos\programowanie_obiektowe\lab1\la2\la2\bin\Debug\net5.0\la2.pdb
+D:\Users\damian.pajak\source\repos\programowanie_obiektowe\lab1\la2\la2\obj\Debug\net5.0\la2.dll
+D:\Users\damian.pajak\source\repos\programowanie_obiektowe\lab1\la2\la2\obj\Debug\net5.0\ref\la2.dll
+D:\Users\damian.pajak\source\repos\programowanie_obiektowe\lab1\la2\la2\obj\Debug\net5.0\la2.pdb
+D:\Users\damian.pajak\source\repos\programowanie_obiektowe\lab1\la2\la2\obj\Debug\net5.0\la2.genruntimeconfig.cache
