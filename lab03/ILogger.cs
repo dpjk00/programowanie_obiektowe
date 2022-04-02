@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace lab03
 {
-    interface ILogger
+    interface ILogger : IDisposable
     {
+        static void Log(params string[] messages)
+        {
+            for (int i = 0; i < messages.Length; i++)
+            {
+                Console.WriteLine(messages[i]);
+            }
+        }
     }
 }

@@ -1,0 +1,5 @@
+D:\Users\damian.pajak\source\repos\lab03\lab03\obj\Debug\net5.0\lab03.csproj.AssemblyReference.cache
+D:\Users\damian.pajak\source\repos\lab03\lab03\obj\Debug\net5.0\lab03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\damian.pajak\source\repos\lab03\lab03\obj\Debug\net5.0\lab03.AssemblyInfoInputs.cache
+D:\Users\damian.pajak\source\repos\lab03\lab03\obj\Debug\net5.0\lab03.AssemblyInfo.cs
+D:\Users\damian.pajak\source\repos\lab03\lab03\obj\Debug\net5.0\lab03.csproj.CoreCompileInputs.cache

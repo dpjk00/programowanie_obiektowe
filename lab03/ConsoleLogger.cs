@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace lab03
 {
-    class ConsoleLogger
+    class ConsoleLogger : WriterLogger
     {
+        public ConsoleLogger()
+        {
+
+        }
+
+        public override void Dispose()
+        {
+
+        }
     }
 }
